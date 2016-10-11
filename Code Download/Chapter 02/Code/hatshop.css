@@ -1,0 +1,43 @@
+body
+{
+  font-family: tahoma, verdana, arial;
+  font-size: 11px;
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+}
+body div
+{
+  margin: 0px;
+  padding: 5px;
+  text-align: left;
+}
+.left_box
+{
+  margin: 0px 15px 15px 0px;
+  padding: 2px;
+  width: 170px;
+}
+img
+{
+  border: 0;
+}
+#header
+{
+  left: 194px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  text-align: right;
+  top: 10px;
+  width: 570px;
+}
+#content
+{
+  left: 194px;
+  margin: 0px;
+  padding: 0px 0px 10px 10px;
+  position: absolute;
+  top: 110px;
+  width: 558px;
+}
